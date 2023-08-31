@@ -4,7 +4,7 @@
 }
 .siri{
     color: brown;
-    background-color: burlywood;
+    background-color: rgb(150, 114, 67);
 
 }
 .jack{
@@ -27,6 +27,7 @@ border: 2px solid black;
 border-collapse: collapse;
 }
 h1{
+    color: bisque;
     border-style: dashed;
     font-style: italic;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
