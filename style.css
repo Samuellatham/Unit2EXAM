@@ -1,0 +1,41 @@
+.market{
+    color: lightblue;
+    background-color: blueviolet;
+}
+.siri{
+    color: brown;
+    background-color: burlywood;
+
+}
+.jack{
+    color: chartreuse;
+    background-color: chocolate;
+
+}
+.service{
+    color: coral;
+    background-color: cornflowerblue;
+
+}
+.usb{
+    color: yellow;
+    background-color: darkmagenta;
+
+}
+table, th, td {
+border: 2px solid black;
+border-collapse: collapse;
+}
+h1{
+    border-style: dashed;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.table{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#first{
+    font-weight: bolder;
+    font-style: italic;
+}
