@@ -62,3 +62,9 @@ h1.other:hover{
     width: 50%;
   }
 
+  .text{
+    text-align: center;
+    color: red;
+    font-size: 12px;
+    font-family:fantasy;
+}
